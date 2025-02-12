@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Tarak Ram Chowdary
 
-I'm a Software Engineer skilled in Java, Spring Boot, and Full-Stack Development. Passionate about building scalable applications and improving system performance. 
+I'm a Software Engineer with over 2 YOE skilled in Java Full stack . Passionate about building scalable applications and improving system performance. 
 ---
 
 🚀 Tech Stack & Tools:
