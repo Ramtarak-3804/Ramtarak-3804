@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hey there! I'm Tarak Ram Chowdary
 
-<!--
-**Ramtarak-3804/Ramtarak-3804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer skilled in Java, Spring Boot, and Full-Stack Development. Passionate about building scalable applications and improving system performance. 
+---
 
-Here are some ideas to get you started:
+🚀 Tech Stack & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Backend Development:**
+- Java | Spring Boot | REST APIs | Microservices | Hibernate
+- MySQL | MongoDB
+- Docker | AWS
+
+🖥️ Frontend Development:**
+- Angular | JavaScript | HTML | CSS | SCSS
+
+🛠️ Tools & DevOps:**
+- Git | GitHub | Jenkins | Maven | Gradle
+- Notion | Jira | Postman | Swagger
+
+---
+
+🏆 Achievements & Certifications:
+- AWS Certified Cloud Practitioner** ☁️
+- Microsoft Azure AZ-900 Certified** 🔹
+- Java Certification** 
+
+---
+
+### 📌 Connect with Me:
+https://www.linkedin.com/in/tarakramchowdary3804/
+
+
+
+---
+
+🎯 Fun Facts about me :
+- I can debug code faster than I can decide what to eat 🍕
+- Love discussing System Design & High-Level Architecture
+- I can invert a binary tree
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+---
+
+_🚀 Let's build something amazing together!_
