@@ -27,8 +27,8 @@ I'm a Software Engineer with over 2 YOE skilled in Java Full stack . Passionate 
 ---
 
 📌 Connect with Me:
-https://www.linkedin.com/in/tarakramchowdary3804/
-ramtarakchowdary3804@gmail.com
+- https://www.linkedin.com/in/tarakramchowdary3804/
+- ramtarakchowdary3804@gmail.com
 
 
 
