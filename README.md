@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Tarak Ram Chowdary
+👋 Hey there! I'm Ramatarakam Chowdary
 
 I'm a Software Engineer with over 2 YOE skilled in Java Full stack . Passionate about building scalable applications and improving system performance. 
 ---
@@ -11,23 +11,24 @@ I'm a Software Engineer with over 2 YOE skilled in Java Full stack . Passionate 
 - Docker | AWS
 
 🖥️ Frontend Development:**
-- Angular | JavaScript | HTML | CSS | SCSS
+- Angular | JavaScript | HTML | CSS
 
-🛠️ Tools & DevOps:**
-- Git | GitHub | Jenkins | Maven | Gradle
-- Notion | Jira | Postman | Swagger
+🛠️ Tools :
+- Git | GitHub | Jenkins | Maven
+- Jira | Postman | Swagger
 
 ---
 
 🏆 Achievements & Certifications:
-- AWS Certified Cloud Practitioner** ☁️
-- Microsoft Azure AZ-900 Certified** 🔹
-- Java Certification** 
+- AWS Certified Cloud Practitioner
+- AWS Solutions Architect - Associate
+- Microsoft Azure AZ-900 Certified
 
 ---
 
-### 📌 Connect with Me:
+📌 Connect with Me:
 https://www.linkedin.com/in/tarakramchowdary3804/
+ramtarakchowdary3804@gmail.com
 
 
 
